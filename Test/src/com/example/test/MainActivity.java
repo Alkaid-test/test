@@ -12,12 +12,14 @@ import android.view.ViewGroup;
 import android.os.Build;
 
 public class MainActivity extends ActionBarActivity {
-
+//negi
+	//aaaaaaaa
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//test
+// ohoh
+//test1
 //test2
         
 //test x        
@@ -28,7 +30,7 @@ public class MainActivity extends ActionBarActivity {
         }
     }
 
-
+//hogehoge
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         
