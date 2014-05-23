@@ -19,6 +19,8 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
 //test
 //test2
+        
+        //comment test
         if (savedInstanceState == null) {
             getSupportFragmentManager().beginTransaction()
                     .add(R.id.container, new PlaceholderFragment())
