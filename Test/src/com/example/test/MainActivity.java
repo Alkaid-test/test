@@ -18,7 +18,9 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//test
+// ohoh
+//test1
+//test2
         if (savedInstanceState == null) {
             getSupportFragmentManager().beginTransaction()
                     .add(R.id.container, new PlaceholderFragment())
@@ -26,7 +28,7 @@ public class MainActivity extends ActionBarActivity {
         }
     }
 
-
+//hogehoge
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         
