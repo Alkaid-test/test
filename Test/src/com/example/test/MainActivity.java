@@ -26,7 +26,7 @@ public class MainActivity extends ActionBarActivity {
         }
     }
 
-
+//hogehoge
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         
